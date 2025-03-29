@@ -3,7 +3,8 @@
 ## Project Overview
 
 This project is designed to automate the process of researching, analyzing, and generating content on a specific topic. In this case, the topic is "medical industry using generative AI." The system uses advanced tools like **Groq API** for natural language processing and **Serper API** for web searches to gather, analyze, and create high-quality content.
-![alt text](<Screenshot 2025-03-29 165325.png>)
+
+![Screenshot 2025-03-29 165903](https://github.com/user-attachments/assets/468f617f-18df-45d7-84e6-34f030cea070)
 
 ## Project Breakdown
 
@@ -19,6 +20,7 @@ This project is designed to automate the process of researching, analyzing, and 
   - **SerperDevTool**: Used for conducting web searches and collecting the most relevant search results.
   - **dotenv**: For managing environment variables and API keys securely.
 
+![alt text](<Screenshot 2025-03-29 165325.png>)
 ### Workflow
 
 1. **Research Phase**: The Senior Research Analyst agent uses the **SerperDevTool** to gather current trends, market analysis, regulatory updates, and more. After evaluating the credibility of sources, the findings are compiled into a structured research brief.
